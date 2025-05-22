@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+import logo from "./roshen_logo.png";
+import favicon from "./favicon.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -32,6 +33,7 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  favicon,
   backend,
   creator,
   mobile,
