@@ -18,13 +18,12 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop 3D visuals, user <br className="sm:block hidden" />
             interfaces and web applications.
-            
             {/* A passionate software engineering student dedicated to mastering the
             intricacies of code and design. */}
           </p>
         </div>
-        <ComputersCanvas/>
       </div>
+      <ComputersCanvas />
     </section>
   );
 }
